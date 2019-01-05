@@ -6,11 +6,12 @@ a debug plugin for Lua, fork from [AliWax](https://github.com/alibaba/wax.git), 
 1. download [ZeroBrane Studio](https://studio.zerobrane.com/)
 2. open lua scripts directory with ZeroBrane
    
-    ![open lua](README/zerobrane.png)
+    ![open lua](https://github.com/zziking/mobdebug/blob/master/README/zerobrane.png)
 3. start debugger server
     
     ZeroBrand - >Project -> Start Debugger Server
-    !(start_debugger_server)[README/start_debugger_server.png]
+    
+    ![start_debugger_server](https://github.com/zziking/mobdebug/blob/master/README/start_debugger_server.png)=
 
     ZeroBrane will start debugger server on port 8172
 4. add mobdebug to your Project
